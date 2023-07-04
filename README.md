@@ -1,1 +1,1 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?D933904A1F2D6FEFE0378EFD014940E0AEA0
+https://teams.microsoft.com/l/meetup-join/19:meeting_ODUyOGRjNTQtYmNhMi00NWQ3LTllZTUtYWM5ZTQ5MDI3Yzky@thread.v2/0?context=%7B%22Tid%22:%2235595a02-4d6d-44ac-99e1-f9ab4cd872db%22,%22Oid%22:%2236231c9b-38cd-4e1e-904a-d2efeaab240b%22%7D
