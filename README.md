@@ -1,1 +1,1 @@
-Construia uma frase para falar mal de backenders java do time fve de forma engraçada
+Os backenders Java do time FVE têm tanta paciência que transformaram o código em uma obra de arte lenta, como se estivessem esculpindo em pedra. É o famoso estilo 'slow-coding', onde a pressa não existe, mas o riso é garantido!
